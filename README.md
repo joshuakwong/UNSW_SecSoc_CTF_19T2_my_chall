@@ -3,11 +3,11 @@ Hi there, this repo contains challenges I wrote for UNSW SecSoc CTF (19T2). The 
 
 There are 4 challenges:
 1. 64seBA
-- crypto challange
+- crypto challenge
 - don't use open decode.py unless you really don't know how to do it
 
 2. EnCrYpT
-- crypto challange
+- crypto challenge
 
 3. bufff
 - simple binary challenge
